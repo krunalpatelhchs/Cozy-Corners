@@ -28,7 +28,9 @@ This site was created by Bishope Wilson, Preston Thrasher, and Krunal Patel.
 
 
 
+## Note
 
+This project is not compatible with Internet Explorer
 
 
 
